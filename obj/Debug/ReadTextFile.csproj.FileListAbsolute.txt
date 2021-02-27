@@ -1,0 +1,10 @@
+D:\.NET Projects\ReadTextFile\bin\Debug\ReadTextFile.exe.config
+D:\.NET Projects\ReadTextFile\bin\Debug\ReadTextFile.exe
+D:\.NET Projects\ReadTextFile\bin\Debug\ReadTextFile.pdb
+D:\.NET Projects\ReadTextFile\obj\Debug\ReadTextFile.csprojAssemblyReference.cache
+D:\.NET Projects\ReadTextFile\obj\Debug\ReadTextFile.Form.resources
+D:\.NET Projects\ReadTextFile\obj\Debug\ReadTextFile.Properties.Resources.resources
+D:\.NET Projects\ReadTextFile\obj\Debug\ReadTextFile.csproj.GenerateResource.cache
+D:\.NET Projects\ReadTextFile\obj\Debug\ReadTextFile.csproj.CoreCompileInputs.cache
+D:\.NET Projects\ReadTextFile\obj\Debug\ReadTextFile.exe
+D:\.NET Projects\ReadTextFile\obj\Debug\ReadTextFile.pdb
